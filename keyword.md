@@ -13,7 +13,7 @@
 
 **Router** → কোন data কোন পথে যাবে সেটা ঠিক করে এবং network-এর বিভিন্ন device-কে connect করে।
 
-**OpenWrt** → Router-এর উপর চলা **Linux-based operating system/firmware**। এই paper-এ network traffic capture ও handle করার environment হিসেবে ব্যবহার করা হয়েছে।
+**OpenWrt** → OpenWrt হলো router-এর জন্য একটি **Linux-based operating system/firmware**, normally router-এর ভিতরে একটা operating system থাকে। OpenWrt সেই router-কে অনেক বেশি control করার সুযোগ দেয়। এই research-এ router থেকে network traffic capture করার কাজে OpenWrt ব্যবহার হয়েছে।
 
 ---
 
