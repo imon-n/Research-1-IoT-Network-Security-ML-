@@ -110,10 +110,6 @@ Paper-এ **Random Forest 10টি selected feature নিয়ে 0.9932 accuracy
 
 ## 5. Complete Flow
 
-পুরো system-টা এক লাইনে:
-
-> **IoT Device → MQTT Communication → Router → Network Traffic → Wireshark/Tcpdump → PCAP → Feature Extraction → Feature Selection → ML → Known/Unknown Device → Isolation Forest → Normal/Anomaly → Alert**
-
 ### Flow Diagram
 
 ```text
